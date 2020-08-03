@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Leo!
+- 🦾 I'm a Middle Computer Vision Researcher at [OCRV](http://www.ocrv.ru/)
+- 🤖 I'm passionate about AI 
+- 🎲 @leoromanovich in Open Data Science community
+
 <img align='right' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
 
 <!--
