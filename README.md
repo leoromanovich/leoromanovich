@@ -7,3 +7,5 @@
 - 🎲 @leoromanovich in Open Data Science community
 - 🦆 [Kaggle expert](https://www.kaggle.com/leoromanovich) for now.
 
+<a href="https://www.linkedin.com/in/leoromanovich/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+
