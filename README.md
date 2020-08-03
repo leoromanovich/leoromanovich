@@ -2,8 +2,10 @@
 - 🦾 I'm a Middle Computer Vision Researcher at [OCRV](http://www.ocrv.ru/)
 - 🤖 I'm passionate about AI 
 - 🎲 @leoromanovich in Open Data Science community
+- 🦆 [Kaggle expert](https://www.kaggle.com/leoromanovich) for now.
 
-<img align='right' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
+
+<img align='right' height='10%' width='10%' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
 
 <!--
 **leoromanovich/leoromanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
