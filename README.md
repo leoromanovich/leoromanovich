@@ -1,23 +1,9 @@
+<img align='right' height='25%' width='25%' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
+
 ### Hi there 👋 I'm Leo!
+
 - 🦾 I'm a Middle Computer Vision Researcher at [OCRV](http://www.ocrv.ru/)
 - 🤖 I'm passionate about AI 
 - 🎲 @leoromanovich in Open Data Science community
 - 🦆 [Kaggle expert](https://www.kaggle.com/leoromanovich) for now.
 
-
-<img align='right' height='10%' width='10%' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
-
-<!--
-**leoromanovich/leoromanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
