@@ -1,4 +1,4 @@
-<img align='right' height='25%' width='25%' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
+<img align='right' height='30%' width='30%' src='https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif'></img>
 
 ### Hi there 👋 I'm Leo!
 
